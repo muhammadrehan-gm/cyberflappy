@@ -30,7 +30,4 @@ By CyberRAP group (us).
   ●  Programming Language:  C Language 
   ●  Graphics Library:  Raylib (for window creation, drawing  shapes, and handling keyboard inputs)
   ●  Development Environment (IDE):  Visual Studio Code (VS Code). 
-  ●  Operating System:  Windows.  
-●  Development Environment (IDE):  Visual Studio Code (VS Code). 
-●  Operating System:  Windows. 
-RA
+  ●  Operating System:  Windows.
