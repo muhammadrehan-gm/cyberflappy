@@ -1,5 +1,9 @@
 # cyberflappy
-By CyberRAP group (us).
+By CyberRAP group.
+[Muhammad Rehan (26k-2001)]
+[Muhammad Affan Nazeer (26k-2003)]
+[Parth Mal Khatri (26k-2007)]
+
 1. Introduction 
   CyberFlappy is an interactive 2D graphical desktop game developed using the C programming language and the Raylib library. The project builds on the classic       arcade game concept by adding dynamic speed scaling, changing environments based on score, and random environmental events to make the gameplay more engaging      and chalenging. 
 2. Existing System 
